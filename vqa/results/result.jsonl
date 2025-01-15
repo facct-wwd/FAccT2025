@@ -1,0 +1,11 @@
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 52.366, "num_requests": 100, "parallel": 64}
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 10.571, "num_requests": 100, "parallel": 64}
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 18693.546, "num_requests": 113835, "parallel": 64}
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 6771.467, "num_requests": 40208, "parallel": 64}
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 11571.025, "num_requests": 71472, "parallel": 64}
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 18.551, "num_requests": 100, "parallel": 64}
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 6.098, "num_requests": 100, "parallel": 1}
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 19.212, "num_requests": 100, "parallel": 100}
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 5.939, "num_requests": 100, "parallel": 1}
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 9784.047, "num_requests": 15178, "parallel": 64}
+{"task": "llava_bench", "backend": "srt", "num_gpus": 1, "latency": 5065.256, "num_requests": 7726, "parallel": 64}
